@@ -28,7 +28,7 @@ Este desafio o ajudará a se concentrar na escrita de HTML semântico. Certifiqu
 
 ### Links
 
-- URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
+- URL da solução: [Frontend Mentor - Solução](https://x.gd/T0pJi)
 - URL do site ativo: [Simple Omelette Recipe](https://kasampaio.github.io/recipe_page/)
 
 ## Meu processo
