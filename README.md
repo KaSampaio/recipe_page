@@ -4,27 +4,29 @@ Esta é uma solução para o [desafio da página de receitas no Frontend Mentor]
 
 ## Índice
 
-- [Visão geral](#visão geral)
+- [Visão geral](#visão-geral)
   - [O desafio](#o-desafio)
-  - [Captura de tela](#captura de tela)
+  - [Captura de tela](#captura-de-tela)
   - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Construído com](#construído com)
-  - [O que aprendi](#o que aprendi)
-  - [Desenvolvimento contínuo](#desenvolvimento contínuo)
-  - [Recursos úteis](#useful-resources)
+  - [Construído com](#construído-com)
+  - [O que aprendi](#o-que-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+  - [Recursos úteis](#recursos-úteis)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-**Observação: exclua esta nota e atualize o índice com base nas seções que você mantém.**
-
 ## Visão geral
+
+### O desafio
+
+Este desafio o ajudará a se concentrar na escrita de HTML semântico. Certifique-se de pensar em quais elementos HTML são mais apropriados para cada parte do conteúdo
 
 ### Captura de tela
 
 ![](./assets/image/Screenshot%202024-04-10%20at%2021-17-50%20Document.png)
 
-###Links
+### Links
 
 - URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
 - URL do site ativo: [Adicione o URL do site ativo aqui](https://your-live-site-url.com)
@@ -38,7 +40,7 @@ Esta é uma solução para o [desafio da página de receitas no Frontend Mentor]
 - Flexbox
 - CSS Grid
 
-### O que eu aprendi
+### O que aprendi
 
 Neste desafio, tentei aprimorar a parte semantica do código, usando a tag "main" para organizar melhor, deixando-o mais compreensivo. Também aprimorei a criação de tabelas no HTML. 
 No CSS, consegui alterar as cores dos marcadores para ficarem diferentes do texto, tive um pouco de dificuldade, porém busquei auxilio no google e consegui fazer o ajuste. 
@@ -191,7 +193,7 @@ Acredito que preciso desenvolver melhor a semantica do meu código, e também os
 
 ## Autor
 
-- Site - [Ka Sampaio](hhttps://github.com/KaSampaio)
+- Site - [Ka Sampaio](https://github.com/KaSampaio)
 - Mentor de Frontend - [@KaSampaio](https://www.frontendmentor.io/profile/KaSampaio)
 
 
