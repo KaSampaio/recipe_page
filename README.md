@@ -29,7 +29,7 @@ Este desafio o ajudará a se concentrar na escrita de HTML semântico. Certifiqu
 ### Links
 
 - URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione o URL do site ativo aqui](https://your-live-site-url.com)
+- URL do site ativo: [Simple Omelette Recipe](https://kasampaio.github.io/recipe_page/)
 
 ## Meu processo
 
@@ -42,7 +42,7 @@ Este desafio o ajudará a se concentrar na escrita de HTML semântico. Certifiqu
 
 ### O que aprendi
 
-Neste desafio, tentei aprimorar a parte semantica do código, usando a tag "main" para organizar melhor, deixando-o mais compreensivo. Também aprimorei a criação de tabelas no HTML. 
+Neste desafio, tentei aprimorar a parte semântica do código, usando a tag "main" para organizar melhor, deixando-o mais compreensivo. Também aprimorei a criação de tabelas no HTML. 
 No CSS, consegui alterar as cores dos marcadores para ficarem diferentes do texto, tive um pouco de dificuldade, porém busquei auxilio no google e consegui fazer o ajuste. 
 
 Para ver como você pode adicionar trechos de código, veja abaixo:
