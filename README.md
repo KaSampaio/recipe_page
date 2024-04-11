@@ -193,7 +193,7 @@ Acredito que preciso desenvolver melhor a semantica do meu código, e também os
 
 ## Autor
 
-- Site - [Ka Sampaio](https://github.com/KaSampaio)
+- GitHub - [Ka Sampaio](https://github.com/KaSampaio)
 - Mentor de Frontend - [@KaSampaio](https://www.frontendmentor.io/profile/KaSampaio)
 
 
